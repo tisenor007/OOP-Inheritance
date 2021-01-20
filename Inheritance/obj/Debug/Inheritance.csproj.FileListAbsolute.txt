@@ -1,0 +1,7 @@
+E:\Visual studio\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Visual studio\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\Visual studio\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\Visual studio\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\Visual studio\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Visual studio\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\Visual studio\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
